@@ -18,6 +18,6 @@ public class MemberProduct {
 
     private int count;
     private int price;
-    
+
     private LocalDateTime orderDateTime;
 }
