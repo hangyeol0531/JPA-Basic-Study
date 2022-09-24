@@ -22,7 +22,4 @@ public class Member {
     @JoinColumn(name = "TEAM_ID")
     private Team team;
 
-//    @Column(name = "TEAM_ID")
-//    private Long teamId;
-
 }
